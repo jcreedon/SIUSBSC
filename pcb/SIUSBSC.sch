@@ -28,18 +28,17 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:personal
-LIBS:SIUSBSCv2-cache
+LIBS:SIUSBSC-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "Square Inch USB Sound Card"
+Date "2015-11-27"
+Rev "1.00"
+Comp "Jacob Creedon"
+Comment1 "Licensed Under CERN OHL 1.2"
 Comment2 ""
 Comment3 ""
 Comment4 ""
